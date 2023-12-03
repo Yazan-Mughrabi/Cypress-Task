@@ -1,5 +1,5 @@
 # Cypress-UI-Task
----
+
 #### Verify flight Search Box test scenario:
 
 ###### 1.  Navigate to​ a configurable base URL (almosafer.com)
